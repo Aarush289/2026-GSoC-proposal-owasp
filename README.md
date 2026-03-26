@@ -1,2 +1,2 @@
-# 2026-GSoC-proposal-owap
+# 2026-GSoC-proposal-owasp
 GSoC 2026 proposal
